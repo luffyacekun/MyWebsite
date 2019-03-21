@@ -1,0 +1,44 @@
+2019-03-19T08:39:18+00:00 CRITICAL Cannot redeclare getDirList() (previously declared in D:\xampp\htdocs\BabyKingdom\wp-content\themes\shop-isle-pro\class.theme-modules.php:25) in D:\xampp\htdocs\BabyKingdom\wp-content\themes\shop-isle-pro\inc\translations\class.theme-modules.php on line 41
+
+2019-03-19T08:39:23+00:00 CRITICAL Cannot redeclare getDirList() (previously declared in D:\xampp\htdocs\BabyKingdom\wp-content\themes\shop-isle-pro\inc\translations\class.theme-modules.php:25) in D:\xampp\htdocs\BabyKingdom\wp-content\themes\shop-isle-pro\inc\customizer\customizer-repeater\class.theme-modules.php on line 41
+
+2019-03-19T08:39:32+00:00 CRITICAL Cannot redeclare getDirList() (previously declared in D:\xampp\htdocs\BabyKingdom\wp-content\themes\shop-isle-pro\inc\customizer\customizer-repeater\class.theme-modules.php:25) in D:\xampp\htdocs\BabyKingdom\wp-content\themes\shop-isle-pro\inc\customizer\class.theme-modules.php on line 41
+
+2019-03-19T08:39:37+00:00 CRITICAL Cannot redeclare getDirList() (previously declared in D:\xampp\htdocs\BabyKingdom\wp-content\themes\shop-isle-pro\inc\customizer\customizer-repeater\class.theme-modules.php:25) in D:\xampp\htdocs\BabyKingdom\wp-content\themes\shop-isle-pro\inc\customizer\class.theme-modules.php on line 41
+
+2019-03-19T08:39:48+00:00 CRITICAL Cannot redeclare getDirList() (previously declared in D:\xampp\htdocs\BabyKingdom\wp-content\themes\shop-isle-pro\inc\customizer\customizer-repeater\class.theme-modules.php:25) in D:\xampp\htdocs\BabyKingdom\wp-content\themes\shop-isle-pro\inc\customizer\class.theme-modules.php on line 41
+
+2019-03-19T08:40:02+00:00 CRITICAL Cannot redeclare getDirList() (previously declared in D:\xampp\htdocs\BabyKingdom\wp-content\themes\shop-isle-pro\inc\customizer\customizer-repeater\class.theme-modules.php:25) in D:\xampp\htdocs\BabyKingdom\wp-content\themes\shop-isle-pro\inc\customizer\class.theme-modules.php on line 41
+
+2019-03-19T08:43:14+00:00 CRITICAL Cannot redeclare shopisle_load_sdk() (previously declared in D:\xampp\htdocs\BabyKingdom\wp-content\themes\shop-isle-pro\functions.php:208) in D:\xampp\htdocs\BabyKingdom\wp-content\themes\shop-isle\functions.php on line 212
+
+2019-03-19T08:46:19+00:00 CRITICAL Cannot redeclare getDirList() (previously declared in D:\xampp\htdocs\BabyKingdom\wp-content\themes\shop-isle-pro\inc\customizer\customizer-repeater\class.theme-modules.php:25) in D:\xampp\htdocs\BabyKingdom\wp-content\themes\shop-isle-pro\inc\customizer\class.theme-modules.php on line 41
+
+2019-03-19T09:04:16+00:00 CRITICAL Cannot redeclare getDirList() (previously declared in D:\xampp\htdocs\BabyKingdom\wp-content\themes\shop-isle-pro\class.theme-modules.php:25) in D:\xampp\htdocs\BabyKingdom\wp-content\themes\shop-isle-pro\inc\translations\class.theme-modules.php on line 41
+
+2019-03-19T10:16:31+00:00 CRITICAL Cannot redeclare getDirList() (previously declared in D:\xampp\htdocs\BabyKingdom\wp-content\themes\flatsome-child\class.theme-modules.php:25) in D:\xampp\htdocs\BabyKingdom\wp-content\themes\flatsome\class.theme-modules.php on line 41
+
+2019-03-19T10:17:50+00:00 CRITICAL Cannot redeclare getDirList() (previously declared in D:\xampp\htdocs\BabyKingdom\wp-content\themes\flatsome\class.theme-modules.php:25) in D:\xampp\htdocs\BabyKingdom\wp-content\themes\flatsome\inc\admin\advanced\functions\class.theme-modules.php on line 41
+
+2019-03-19T10:17:50+00:00 CRITICAL Cannot redeclare getDirList() (previously declared in D:\xampp\htdocs\BabyKingdom\wp-content\themes\flatsome\class.theme-modules.php:25) in D:\xampp\htdocs\BabyKingdom\wp-content\themes\flatsome\inc\admin\advanced\functions\class.theme-modules.php on line 41
+
+2019-03-19T10:18:37+00:00 CRITICAL Cannot redeclare getDirList() (previously declared in D:\xampp\htdocs\BabyKingdom\wp-content\themes\flatsome\class.theme-modules.php:25) in D:\xampp\htdocs\BabyKingdom\wp-content\themes\flatsome\inc\admin\advanced\functions\class.theme-modules.php on line 41
+
+2019-03-19T10:21:33+00:00 CRITICAL Cannot redeclare getDirList() (previously declared in D:\xampp\htdocs\BabyKingdom\wp-content\themes\flatsome\class.theme-modules.php:25) in D:\xampp\htdocs\BabyKingdom\wp-content\themes\flatsome\inc\admin\advanced\functions\class.theme-modules.php on line 41
+
+2019-03-19T10:21:43+00:00 CRITICAL Cannot redeclare getDirList() (previously declared in D:\xampp\htdocs\BabyKingdom\wp-content\themes\flatsome\class.theme-modules.php:25) in D:\xampp\htdocs\BabyKingdom\wp-content\themes\flatsome\inc\admin\advanced\functions\class.theme-modules.php on line 41
+
+2019-03-19T10:21:46+00:00 CRITICAL Cannot redeclare getDirList() (previously declared in D:\xampp\htdocs\BabyKingdom\wp-content\themes\flatsome\class.theme-modules.php:25) in D:\xampp\htdocs\BabyKingdom\wp-content\themes\flatsome\inc\admin\advanced\functions\class.theme-modules.php on line 41
+
+2019-03-19T10:21:48+00:00 CRITICAL Cannot redeclare getDirList() (previously declared in D:\xampp\htdocs\BabyKingdom\wp-content\themes\flatsome\class.theme-modules.php:25) in D:\xampp\htdocs\BabyKingdom\wp-content\themes\flatsome\inc\admin\advanced\functions\class.theme-modules.php on line 41
+
+2019-03-19T10:21:49+00:00 CRITICAL Cannot redeclare getDirList() (previously declared in D:\xampp\htdocs\BabyKingdom\wp-content\themes\flatsome\class.theme-modules.php:25) in D:\xampp\htdocs\BabyKingdom\wp-content\themes\flatsome\inc\admin\advanced\functions\class.theme-modules.php on line 41
+
+2019-03-19T10:21:58+00:00 CRITICAL Cannot redeclare getDirList() (previously declared in D:\xampp\htdocs\BabyKingdom\wp-content\themes\flatsome\class.theme-modules.php:25) in D:\xampp\htdocs\BabyKingdom\wp-content\themes\flatsome\inc\admin\advanced\functions\class.theme-modules.php on line 41
+
+2019-03-19T10:22:10+00:00 CRITICAL Cannot redeclare getDirList() (previously declared in D:\xampp\htdocs\BabyKingdom\wp-content\themes\flatsome\class.theme-modules.php:25) in D:\xampp\htdocs\BabyKingdom\wp-content\themes\flatsome\inc\admin\advanced\functions\class.theme-modules.php on line 41
+
+2019-03-19T10:23:36+00:00 CRITICAL Cannot redeclare getDirList() (previously declared in D:\xampp\htdocs\BabyKingdom\wp-content\themes\flatsome\class.theme-modules.php:25) in D:\xampp\htdocs\BabyKingdom\wp-content\themes\flatsome\inc\admin\advanced\functions\class.theme-modules.php on line 41
+
+2019-03-19T10:25:41+00:00 CRITICAL Cannot redeclare getDirList() (previously declared in D:\xampp\htdocs\BabyKingdom\wp-content\themes\flatsome\class.theme-modules.php:25) in D:\xampp\htdocs\BabyKingdom\wp-content\themes\flatsome\inc\admin\advanced\functions\class.theme-modules.php on line 41
+
